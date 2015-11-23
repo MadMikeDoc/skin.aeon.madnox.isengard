@@ -1,0 +1,129 @@
+ ---------------------------------------------
+| AEON MADNOX v.1.0 HELIX / ISENGARD (PLUS LIVE TV MOD) |
+ ---------------------------------------------
+
+June 1st, 2015
+
+- Forked from ShedNox, new version due to Shednox no longer being maintained.
+- Works on both Helix and Isengard.
+
+Added Views:
+
+Benner Info
+FanartList
+KodiFlix
+Rightlist
+Sets
+Wall Large
+
+Main Improvements:
+
+Added Manfeed's latest Music Vizulization mod.
+Added Fake Disc Artwork to Movies and Music, Movies has additional options of either using Artwork or a Fake Disc with handwriting.
+Updated several existing views to work better.
+
+CHANGELOG 16/09/15 (Revision 0.0.8)
+Add SDTV option ( incl.Cases and Discs )
+Add Cinemavision Button on Movie info screen
+Add trailer search to Extras Screen
+fix Season Poster views on Rightlist and Episode View ( incl. new fallback icon )
+Suggested R3N3 PVR changes (15.09) - Thanks R3N3
+fixed: Fanart is shown when no nfo is available, but the fanart is inside the movie folder
+Several other small bug fixes / improvements
+
+
+CHANGELOG 26/08/15 (Revision 0.0.7)
+
+Fake DVD Case back for List View (*** Requires add-on Skin.helper.service ***)
+MusicFlix view for Albums  (*** Requires add-on Skin.helper.service ***) (Thank to UsefulG for initial view)
+Use Metadata Add-on for Actors - Swtich in Skin Settings General, once activated and in skin info screen
+the old search selection window should display to allow you to search database etc. Extra Info will action
+extended info, the same as when switch is deactivated.
+Improvements to the GamesFlix view for Advance Launcher.
+Small Fanart option for KodiFlix view, will reduce Fanart from fullscreen to partial.
+Several other small bug fixes / improvements
+
+CHANGELOG 22/08/15 (Revision 0.0.6)
+
+Additions
+
+New View Shelf 3D - Our take on the shelf view and still WIP
+New 'Extras' Option in KodiFlix View - WIP
+3 New views for Advanced Launcher - Thanks UsefulG
+Alternative Music Viz layout
+New Nowplaying bar on Home screen
+
+Updates & Bug fixes
+
+Suggested R3N3 PVR changes included - Thank R3N3
+Tripanel updates
+French rating flags
+'Open Case' button issue
+List view - Studio Logo correction
+Varios Music Viz updates & Fixes
+German ratings updates
+LowList view updates
+Mixed widgets correction
+Volume Overlay update
+Infowall Zoom & Animation fixes
+RightList Music updates
+Infowall updates
+hebrew language fix
+List view update
+code cleanup
+Various small bugs & issues
+
+CHANGELOG 27/07/15 (Revision 0.0.5):
+
+KodiFlix - New Cleart & DiscArt views.
+KodiFlix updates - tidied up settings, new menu. Add Center Focus and Lower Info options.
+RightList for Music update - thanks meowmoo.
+tvshow problem in Episodes, List, Tri-Panel & RightList views corrected when one seaon and no season01-poster (I hope).
+Build Fake Banner differently.
+
+View updates:
+
+Fanart list
+Banners
+BigFan
+Episode
+Wall
+
+Language Flag corrections.
+Additional bugs & fixes.
+
+CHANGELOG 23/07/15 (Revision 0.0.4):
+
+KodiFlix updates - swtiches Hide Info, Center List, Dim List.
+Rightlist available for music - all levels.
+Sets update.
+infowall update.
+InfoPanel update.
+Lowlist updatee.
+Panel updatee.
+Tri-panel update.
+Additional bugs & fixes.
+
+CHANGELOG 17/07/15 (Revision 0.0.3):
+
+FakeDisc Art (Posters only) added to info screen, FakeDiscArt must be selected.
+Disable Intro switch added to Skin Settings.
+Use Extended Info switch added to Skin Settings.
+IMDB Icon switch added to Kodiflix View.
+MPAA & Music backgrounds graphics update.
+Additional bugs & fixes.
+Various views updated:
+
+CHANGELOG 10/07/15:
+
+Major upgrade of KodiFlix view.
+viewtypesettings - Kodiflix thumbnail info on episodes now available
+skinsettings - removed moreinfo dependancies against backend switch
+LowList view - Cases for Tvshows - Tvshows & Seasons levels, Fakediscs for Seasons - both controlled via settings.
+New version of some graphic files, smaller in size.
+Relocated 'Extended Info' from extras menu to button in main Info view for Movies & TV shows.
+Font issue resolved on Native Extended info view.
+Reload button on context menu - to reload the skin should backgrounds disappear and hopefully correct the issue.
+Updated Skin specific extended info views.
+Small bugs & fixes.
+
